@@ -4,6 +4,7 @@ import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
 
+/**Activity handling the main log in screen for the application.  This is the activity that is launched by the launcher.*/
 public class LogInAcitivity extends Activity {
 
     @Override
